@@ -24,8 +24,6 @@ O desafio técnico não se resume a automatizar cliques. Durante os testes, a in
 
 A automação foi estruturada para observar o estado da própria interface antes de continuar o fluxo.
 
-![Solução](docs/images/solucao.png)
-
 Entre as funcionalidades trabalhadas estão:
 
 - navegação automática por datas usando os controles reais da interface;
