@@ -1,7 +1,5 @@
 # Automação Web para Diário de Classe - SIEO
 
-![Capa do projeto](docs/images/capa.png)
-
 Projeto independente de automação web criado para reduzir etapas repetitivas no preenchimento do Diário de Classe do SIEO.
 
 A proposta surgiu a partir de um problema simples: uma atividade que parece pequena quando feita uma vez se torna cansativa quando precisa ser repetida em várias turmas, datas e registros.
@@ -12,8 +10,6 @@ A proposta surgiu a partir de um problema simples: uma atividade que parece pequ
 ## O problema
 
 O fluxo de registro envolve diversas ações repetitivas, como navegar entre datas, verificar aulas, selecionar horários, abrir o registro de habilidades, escolher um conteúdo, preencher campos de apoio e salvar.
-
-![Problema](docs/images/problema.png)
 
 O desafio técnico não se resume a automatizar cliques. Durante os testes, a interface apresentou comportamentos como:
 
