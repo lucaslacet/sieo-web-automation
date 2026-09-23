@@ -1,0 +1,17 @@
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Dados que não devem ir para o repositório
+cookies*
+session*
+token*
+credentials*
+.env
+.env.*
